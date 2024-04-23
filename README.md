@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.png" width = "90%" alt="Banner Image" >
+<img src="banner-image.png" width = "90%" alt="Banner Image" >
  </div>
 <h1 align="center" size="50px">
 Hello There! I am Shital Mainali a full-stack developer.  
