@@ -8,7 +8,7 @@ Hello There! I am Shital Mainali a full-stack developer.
 
 <div align="left">
 
-🔭  I’m currently working on [Giftpad Co. Ltd](https://github.com/giftpad) as Software Engineer.
+🔭  I’m currently working at [Giftpad Co. Ltd](https://github.com/giftpad) as Software Engineer.
 
 🌱 I’m currently learning  Test Driven Development.
 
