@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner-image.png" width = "90%" alt="Banner Image" >
+<img src="banner-image.png" width = "90%" alt="Banner Image" ><br>
  <em align="center">I am currently udpating my Personal Github Profile(Since April 2024)<br>So if it is empty, pelase come back later.</em>
  </div>
 <h1 align="center" size="50px">
