@@ -1,7 +1,7 @@
 <h1 align="center" size="50px">
 Hello There! I am Shital Mainali a full-stack developer.  
 </h1>
-<em>I am currently udpating my Personal Github Profile(Since April 2024)<br>So if it is empty, pelase come back later.</em>
+<em align="center">I am currently udpating my Personal Github Profile(Since April 2024)<br>So if it is empty, pelase come back later.</em>
 <div align="left">
 
 🔭  I’m currently working on [Giftpad Co. Ltd](https://github.com/giftpad) as Software Engineer.
