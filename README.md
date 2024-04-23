@@ -62,6 +62,9 @@ Hello There! I am Shital Mainali a full-stack developer.
 
 ## 🌐Connect with me
 <a href="https://www.linkedin.com/in/shitalmainali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnabot" height="30" width="40" /></a>
+<br>
+ Profile Layout Inspired From: [Krishna Pd Achraya](https://github.com/krishnabot)
 
 </p>
-</div
+</div>
+
