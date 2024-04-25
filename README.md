@@ -49,13 +49,12 @@ Hello There! I am Shital Mainali a software engineer.
 </div>
 
 </br>
-<p align="left">
-
- <a href="https://github.com/spiderb59/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=spiderb59&show_icons=true&theme=react&hide_border=falase" />
+<div align="left">
+  <a href="https://github.com/spiderb59/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=spiderb59&show_icons=true&theme=react&hide_border=false" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderb59&theme=react&hide_border=false" />
-
-</p>
+  </a>
+</div>
 </br>
 
 <div align="center"> 
@@ -63,8 +62,6 @@ Hello There! I am Shital Mainali a software engineer.
 ## 🌐Connect with me
 <a href="https://www.linkedin.com/in/shitalmainali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnabot" height="30" width="40" /></a>
 <br><br>
-<em> Profile Layout Inspired From: [Krishna Pd Achraya](https://github.com/krishnabot)</em>
-
 </p>
 </div>
 
