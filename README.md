@@ -6,6 +6,7 @@
 Hello There! I am Shital Mainali a software engineer. 
 </h1>
 
+ <img align="right" width="350" height= "200" src="/assets/programmer.gif" alt="Coding gif" />
 <div align="left">
 
 🔭  I’m currently working at [Giftpad Co. Ltd](https://github.com/giftpad) as Software Engineer.
@@ -17,9 +18,6 @@ Hello There! I am Shital Mainali a software engineer.
 ⚡ Fun fact: I never get bored of programming
  
  </div>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-<hr>
-
 <div align="center"> 
 
 # 💻Tech Stack
