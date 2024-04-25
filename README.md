@@ -1,11 +1,13 @@
 <div align="center">
 <img src="assets/banner-img.png" width = "90%" alt="Banner Image" ><br>
- <em align="center">I am currently udpating my Personal Github Profile(Since April 2024)<br>So if it is empty, pelase come back later.</em>
- </div>
+ <p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Shital+Mainali" target = "_blank">「 Google Me 」</a>
+  </samp>
+</p>
 <h1 align="center" size="50px">
-Hello There! I am Shital Mainali a software engineer. 
+Hello There! I am Shital Mainali.
 </h1>
-
  <img align="right" width="350" height= "200" src="/assets/programmer.gif" alt="Coding gif" />
 <div align="left">
 
@@ -15,8 +17,10 @@ Hello There! I am Shital Mainali a software engineer.
 
 📫 Email me at: hey@shitalmainali.com.np
 
-⚡ Fun fact: I never get bored of programming
- 
+⚡ Fun fact: I have a love-hate relationship with coding.
+  <samp>
+    <a href="https://www.blogs.shitalmainali.com.np/about-me" target = "_blank">Read More</a>
+  </samp>
  </div>
 <div align="center"> 
 
@@ -53,6 +57,14 @@ Hello There! I am Shital Mainali a software engineer.
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=spiderb59&show_icons=true&theme=react&hide_border=false" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderb59&theme=react&hide_border=false" />
   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spiderb59&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+
+<a href="https://github.com/spiderb59"><img alt="Shital Mainali's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </div>
 </br>
 
