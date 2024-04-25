@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner-img.png" width = "90%" alt="Banner Image" ><br>
+<img src="assets/banner-img.png" width = "90%" alt="Banner Image" ><br>
  <em align="center">I am currently udpating my Personal Github Profile(Since April 2024)<br>So if it is empty, pelase come back later.</em>
  </div>
 <h1 align="center" size="50px">
@@ -17,6 +17,7 @@ Hello There! I am Shital Mainali a software engineer.
 ⚡ Fun fact: I never get bored of programming
  
  </div>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 <hr>
 
 <div align="center"> 
