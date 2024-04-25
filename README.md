@@ -52,8 +52,8 @@ Hello There! I am Shital Mainali a software engineer.
 <p align="left">
 
  <a href="https://github.com/spiderb59/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=spiderb59&show_icons=true&theme=react&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderb59&theme=react&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=spiderb59&show_icons=true&theme=react&hide_border=falase" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderb59&theme=react&hide_border=false" />
 
 </p>
 </br>
