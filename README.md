@@ -52,12 +52,12 @@ Hello There! I am Shital Mainali.
 </div>
 
 </br>
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/spiderb59/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=spiderb59&show_icons=true&theme=react&hide_border=false" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderb59&theme=react&hide_border=false" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://github.com/spiderb59">
