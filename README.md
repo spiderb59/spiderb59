@@ -6,7 +6,9 @@
   </samp>
 </p>
 <h1 align="center" size="50px">
-Hello There! I am Shital Mainali.
+Hello There! I am Shital Mainali.  <samp>
+    <a href="https://me.shitalmainali.com.np/" target = "_blank">「 Learn More 」</a>
+  </samp>
 </h1>
  <img align="right" width="350" height= "200" src="/assets/programmer.gif" alt="Coding gif" />
 <div align="left">
